@@ -35,7 +35,7 @@
     "daisyui": "1.16.6",
     "jest": "^27.5.1",
     "node-sass": "^7.0.1",
-    "postcss": "^8.4.19",
+    "postcss": "^8.4.33",
     "postcss-cli": "^7.1.2",
     "postcss-loader": "^7.3.3",
     "prettier": "2.7.1",
@@ -54,7 +54,7 @@
     "ts-loader": "^9.2.6",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4",
-    "vite": "^3.2.7",
+    "vite": "^3.2.8",
     "vite-plugin-static-copy": "^0.12.0"
   },
   "dependencies": {
@@ -64,7 +64,7 @@
     "@sveltestack/svelte-query": "^1.6.0",
     "@wagmi/connectors": "^0.1.1",
     "@wagmi/core": "^0.8.0",
-    "axios": "^1.2.0",
+    "axios": "^1.6.3",
     "buffer": "^6.0.3",
     "ethers": "^5.7.1",
     "identicon.js": "^2.3.3",
